@@ -31,6 +31,7 @@ const styles = StyleSheet.create({
     text: {
         color: '#fff', // Branco
         fontSize: 24,
+        fontFamily:'Roboto-Regular',
         marginTop: 20,
         top: -10,
         alignItems: 'center',
