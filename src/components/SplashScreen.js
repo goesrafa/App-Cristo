@@ -11,7 +11,7 @@ const SplashScreen = () => {
                     resizeMode='contain'
                 />
             </View>
-            <Text style={styles.text}>PARÓQUIA CRISTO REDENTOR</Text>
+            <Text style={styles.text}>PARÓQUIA {'\n'} CRISTO REDENTOR</Text>
         </View>
     )
 }
@@ -27,14 +27,14 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
     },
-    logo: {
-        width: '80%',
-        height: '80%',
-    },
+   
     text: {
         color: '#fff', // Branco
         fontSize: 24,
         marginTop: 20,
+        top: -10,
+        alignItems: 'center',
+        justifyContent: 'space-around'
     },
 });
 
