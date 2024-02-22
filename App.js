@@ -23,6 +23,7 @@ const App = () => {
     setTimeout(() => {
       setSplashVisible(false);
     }, 3000); // Altere o tempo conforme necessário
+    
   }, []);
 
   return (
