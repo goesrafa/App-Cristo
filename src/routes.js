@@ -6,3 +6,4 @@ import Liturgia from './pages/Liturgia/Liturgia';
 import Sobre from './pages/Sobre/Sobre';
 
 const Tab = createBottomTabNavigator();
+
