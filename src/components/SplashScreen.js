@@ -1,4 +1,4 @@
-import React, { useState, useNavigation } from 'react';
+/*import React, { useState, useNavigation } from 'react';
 import { View, Image, StyleSheet, Text, Button } from 'react-native';
 import CadastroEmail from './CadastroEmail';
 
@@ -51,4 +51,4 @@ const styles = StyleSheet.create({
     },
 });
 
-export default SplashScreen;
+export default SplashScreen;*/
